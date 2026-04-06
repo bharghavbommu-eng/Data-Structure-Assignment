@@ -1,7 +1,7 @@
 # Data Structure Assignment
 
-Name: YOUR NAME  
-Roll Number: YOUR ROLL NUMBER  
+Name: B.V. BHARGHAV KUMAR REDDY  
+Roll Number: CDS/2025/1263 
 Course: Introduction to Data Structure  
 
 ## Description
